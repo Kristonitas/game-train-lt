@@ -5,3 +5,4 @@ Pamokos:
 2. [Kintamųjų taikymas, aritmetinės funkcijos ir rezultatų atvaizdavimas](2.md)
 3. [Sąlyginis kodo vykdymas](3.md)
 4. [Atsikartojantis kodas (`while`)](4.md)
+4. [Atsikartojantis kodas (`for`)](5.md)
