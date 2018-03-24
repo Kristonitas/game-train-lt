@@ -8,3 +8,4 @@ Pamokos:
 5. [Atsikartojantis kodas (`for`)](5.md)
 6. [Duomenų struktūros: masyvai](6.md)
 7. [Klaidos kode ir sudėtingi algoritmai su duomenų masyvais](7.md)
+8. [Funkcijos](8.md)
