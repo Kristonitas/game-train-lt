@@ -9,3 +9,5 @@ Pamokos:
 6. [Duomenų struktūros: masyvai](6.md)
 7. [Klaidos kode ir sudėtingi algoritmai su duomenų masyvais](7.md)
 8. [Funkcijos](8.md)
+9. [Klasės](9.md)
+10. [Klasės, ir vėl](10.md)
